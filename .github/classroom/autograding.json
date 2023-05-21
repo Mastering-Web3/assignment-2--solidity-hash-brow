@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test 1",
+      "setup": "npm install",
+      "run": "node test/election-test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

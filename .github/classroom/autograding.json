@@ -3,11 +3,11 @@
     {
       "name": "test 1",
       "setup": "npm install",
-      "run": "node test/election-test.js",
+      "run": "npx hardhat test",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 5,
       "points": null
     }
   ]
